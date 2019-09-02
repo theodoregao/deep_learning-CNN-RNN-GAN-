@@ -4,3 +4,4 @@ cifar-10-batches-py/**
 tensorboard/**
 images/**
 vgg16/**
+run_style_transfer/**

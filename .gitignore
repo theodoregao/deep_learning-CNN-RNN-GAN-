@@ -1,3 +1,5 @@
 old/**
 cifar-10-batches-py/**
 .ipynb_checkpoints/**
+tensorboard/**
+images/**
